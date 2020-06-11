@@ -6,6 +6,7 @@ namespace NetDemo
     {
         static void Main(string[] args)
         {
+            Console.Write(1);
             Console.WriteLine("Hello World!");
         }
     }
